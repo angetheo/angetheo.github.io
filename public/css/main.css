@@ -153,10 +153,11 @@ a {
   padding:10px 30px;
 }
 
-/* PROGRESS BAR */
+/* ELEMENTS */
 
 .progress-mini { height:10px; }
 .progress-bar-primary { background-color: #006666; }
+.btn-primary { background-color: #006666 !important; }
 
 /* FOOTER */
 
